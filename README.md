@@ -1,2 +1,1 @@
-# Hackerrank
 Solving Hackerrank problems.
