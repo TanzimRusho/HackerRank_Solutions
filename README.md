@@ -1,3 +1,3 @@
-# HackerRank
+# HackerRank_Solutions
 
 Solving Hackerrank problems.
