@@ -1,3 +1,3 @@
-**HackerRank**
+## HackerRank ##
 
 Solving Hackerrank problems.
